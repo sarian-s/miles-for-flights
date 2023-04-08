@@ -1,4 +1,4 @@
-public class calculationOfBonusMiles {
+public class CalculationOfBonusMiles {
     public static void main(String[] args) {
 
         int amount = 12678; //стоимость билета
