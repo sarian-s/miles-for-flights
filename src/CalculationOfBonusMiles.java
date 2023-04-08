@@ -3,7 +3,7 @@ public class CalculationOfBonusMiles {
 
         int amount = 12678; //стоимость билета
 
-        int mileToRub = 20; //1 миля равна 20 руб
+        int mileToRub = 20; //1 миля 20 руб
 
         int bonusMiles = amount / mileToRub;
 
